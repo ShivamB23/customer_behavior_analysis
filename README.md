@@ -217,4 +217,4 @@ Open the project report and Gamma AI presentation to explore the documented find
 
 **Shivam Bhat**
 
-Connect with me on [LinkedIn](YOUR_LINKEDIN_URL) | Explore my projects on [GitHub](YOUR_GITHUB_URL)
+Connect with me on [LinkedIn](https://www.linkedin.com/in/shivam-bhat-942343312/) | Explore my projects on [GitHub](https://github.com/ShivamB23)
